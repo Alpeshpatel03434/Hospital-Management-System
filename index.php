@@ -29,21 +29,21 @@
     <div class="patientofhms">
         
         <img class=patient src="res/img2.png" alt="patient ican">
-        <a href="hms/patient/user-login.php"><h2>Register & Book Appointment</h2></a>
+        <a href="./hms/patient/user-login.php"><h2>Register & Book Appointment</h2></a>
 
     </div>
 
     <div class="doctorofhms">
 
         <img class=doctor src="res/img3.png" alt="doctor ican">
-        <a class=dl href="hms/doctor/index.php"><h2>Doctor's Login</h2></a>
+        <a class=dl href="./hms/doctor/index.php"><h2>Doctor's Login</h2></a>
 
     </div>
 
     <div class="adminfhms">
 
         <img class=admin src="res/img4.png" alt="admin ican">
-        <a class=dl href="hms/admin/index.php"><h2>Admin Login</h2></a>
+        <a class=dl href="./hms/admin/index.php"><h2>Admin Login</h2></a>
 
     </div>
 
