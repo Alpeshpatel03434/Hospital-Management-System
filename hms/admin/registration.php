@@ -75,13 +75,13 @@ if($query)
 									Gender
 								</label>
 								<div class="clip-radio radio-primary">
-									<input type="radio" id="rg-female" name="gender" value="female" >
-									<label for="rg-female">
-										Female
-									</label>
-									<input type="radio" id="rg-male" name="gender" value="male">
+								     <input type="radio" id="rg-male" name="gender" value="male">
 									<label for="rg-male">
 										Male
+									</label>
+                                                                     <input type="radio" id="rg-female" name="gender" value="female" >
+									<label for="rg-female">
+										Female
 									</label>
 								</div>
 							</div>
