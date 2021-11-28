@@ -1,0 +1,141 @@
+.backgroud{
+    margin-top: -16px;
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    z-index: -1;
+}
+
+.home{
+    margin-top: -60px;
+    text-align: center;
+    padding-left: 40px;
+    display: inline-block;
+    padding-right: 30px;
+    color: crimson;
+    text-decoration: crimson;
+}
+
+h1{
+    padding-left: 16px;
+    font-style: revert;
+    text-decoration: underline;
+    color: blue;
+}
+
+.contact{
+    margin-top: -60px;
+    text-align: center;
+    display: inline-block;
+  
+    padding-right: 80px;
+    color: crimson;
+}
+
+.bodyofcontact{
+    margin-top: 20%;
+    padding-left: 60px;
+}
+
+.contactform{
+    margin-top: -300px;
+    padding-right: 500px;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    float: right;
+}
+
+.contact-form{
+	position:relative;
+	padding-bottom:30px;
+}
+.contact-form div{
+	padding:5px 0;
+}
+.contact-form span{
+	display:block;
+	font-size:20px;
+	color: rgb(50, 0, 63);
+	padding-bottom:3px;
+	font-family: 'Ropa Sans', sans-serif;
+}
+.contact-form input[type="text"],.contact-form textarea{
+		    padding:8px;
+			display:block;
+			width:98%;
+			background:#fcfcfc;
+			border: none;
+			outline:none;
+			color:rgb(195, 0, 255);
+			font-size:0.8125em;
+			font-family:Arial, Helvetica, sans-serif;
+			box-shadow: inset 0px 0px 3px rgb(252, 6, 6);
+			-webkit-box-shadow: inset 0px 0px 3px rgb(199, 199, 199);
+			-moz-box-shadow: inset 0px 0px 3px rgb(199, 199, 199);
+			-o-box-shadow:inset 0px 0px 3px rgb(199, 199, 199);
+			-webkit-appearance:none;
+}
+.contact-form textarea{
+		resize:none;
+		height:120px;		
+}
+.contact-form input[type="submit"]{
+	font-size: 1em;
+	font-family: 'Ropa Sans', sans-serif;
+	background: #3285d1;
+	background: -moz-linear-gradient(top, #3285d1 0%, #3285d1 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3285d1), color-stop(100%,#3285d1));
+	background: -webkit-linear-gradient(top, #3285d1 0%,#3285d1 100%);
+	background: -o-linear-gradient(top, #3285d1 0%,#3285d1 100%);
+	background: -ms-linear-gradient(top, #3285d1 0%,#3285d1 100%);
+	background: linear-gradient(to bottom, #3285d1 0%,#3285d1 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3285d1', endColorstr='#3285d1',GradientType=0 );
+	border: #fff 1px solid;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: 0px 0px 3px rgb(207, 206, 206);
+	-moz-box-shadow: 0px 0px 3px rgb(207, 206, 206);
+	box-shadow: 0px 0px 3px rgb(207, 206, 206);
+	text-transform: uppercase;
+	color: #fff;
+	padding: 15px 20px;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+	float: left;
+	margin-top: 8px;
+	cursor:pointer;
+}
+.contact-form input[type="submit"]:hover{
+	color: #000;
+}
+.contact-form input[type="submit"]:active{
+	background-color:#000;  
+}
+
+.footer{
+    margin-top: 300px;
+    padding-top: 20px;
+    left: 0;
+    height: 120px;
+    width: 100%;
+    background-color: #4de96b;
+    text-align: center;
+}
+
+.Fhome{
+    padding-top: 10px;
+    display: inline-block;
+    padding-left: 80px;
+    float: left;
+    text-decoration: red;
+}
+
+.Fcontact{
+    padding-top: 10px;
+    display: inline-block;
+    padding-right: 1000px;
+    text-decoration: red;
+}
