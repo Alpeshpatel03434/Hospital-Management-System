@@ -1,6 +1,6 @@
 # HMS - Hospital-Management-System
 
-Handling patient bills and appointment used to be a chaotic scene in hospitals and clinics. 
+This project can help to the hospital management . This project can Handling patient bills and appointment,  history of appointments, the availability of doctors, fee charge of each specialist doctor, Doctors details.
 
 The aim project was helps manage the information related to health care and patient can book appointment, registration it self , doctor can login and check the patient details. Admin and doctor can manage hospital using this project. Admin and doctor can see the patient history of records.
 
