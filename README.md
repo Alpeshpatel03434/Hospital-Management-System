@@ -1,6 +1,6 @@
 # Hospital-Management-System
 
-## Project is not completed
+# Handling patient bills and appointment used to be a chaotic scene in hospitals and clinics. 
 
 The aim project was helps manage the information related to health care and patient can book appointment, registration it self , doctor can login and check the patient details. Admin and doctor can manage hospital using this project. Admin and doctor can see the patient history of records.
 
