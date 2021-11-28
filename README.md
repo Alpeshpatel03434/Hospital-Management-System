@@ -2,7 +2,7 @@
 
 This project can help to the hospital management . This project can Handling patient bills and appointment,  history of appointments, the availability of doctors, fee charge of each specialist doctor, Doctors details.
 
-The aim project was helps manage the information related to health care and patient can book appointment, registration it self , doctor can login and check the patient details. Admin and doctor can manage hospital using this project. Admin and doctor can see the patient history of records.
+The aim of the project can help manage the information related to health care and manage hospital. This project make easy and save money. Patient can book appointment as per his/her time and patient can also see the availability of doctors and his/her feel so it's made easy for Patient.
 
 #### Developed an Hospital Management System using html, css, javascript, php, mySQL, Bootstrap
 
