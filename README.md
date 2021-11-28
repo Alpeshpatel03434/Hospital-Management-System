@@ -20,6 +20,8 @@ The aim project was helps manage the information related to health care and pati
 
 <img src="temp/img8.png"></img>
 
+<img src="temp/img11.png"></img>
+
 <img src="temp/img-9.png"></img>
 
 <img src="temp/img-10.png"></img>
